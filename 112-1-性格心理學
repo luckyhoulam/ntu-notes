@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>112-1｜心理學導論</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; background: #f0f8ff; }
+    h1 { text-align: center; }
+    ul { max-width: 800px; margin: auto; list-style: none; padding: 0; }
+    li { margin: 1rem 0; display: flex; justify-content: space-between; }
+    a.btn { text-decoration: none; background: #1abc9c; color: white; padding: 0.4rem 0.8rem; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>112-1｜心理學導論 - 檔案下載</h1>
+  <ul>
+    <li>
+      <span>📄 第一章講義</span>
+      <a class="btn" href="docs/112-1/psych_ch1.pdf" target="_blank">下載 PDF</a>
+    </li>
+    <li>
+      <span>📄 小考一題目</span>
+      <a class="btn" href="docs/112-1/psych_quiz1.pdf" target="_blank">下載 PDF</a>
+    </li>
+  </ul>
+</body>
+</html>
